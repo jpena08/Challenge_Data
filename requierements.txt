@@ -1,0 +1,4 @@
+pd==1.2.4
+json=2.0.9
+urllib.request==3.8
+urllib.error
